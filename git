@@ -1,6 +1,9 @@
 git init - инициализация гита
 git remote add origin ссылка на ваш репозиторий - связывает ваш проект и ваш гит перозиторий
 
+create .gitignore
+        venv
+        idea...
 
 git add .\namefile-добавляет в гит ваши файлы
 git commit -m 'имя коммита'-сохраняет ваш результат
