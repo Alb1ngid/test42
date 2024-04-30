@@ -5,3 +5,8 @@ git remote add origin ссылка на ваш репозиторий - связ
 git add .\namefile-добавляет в гит ваши файлы
 git commit -m 'имя коммита'-сохраняет ваш результат
 git push origin master\main
+
+
+
+git rm --cached namefile
+git rm --cached -r namedir
