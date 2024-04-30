@@ -2,6 +2,7 @@
 
 types = 123,'str',True,1.1232,[],(),{}
 
+
 # print(type(types))
 
 
