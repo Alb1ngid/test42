@@ -13,5 +13,11 @@ git push origin master\main
 
 
 
-git rm --cached namefile
-git rm --cached -r namedir
+git rm --cached namefile- удаляет файлы с репозитория
+git rm --cached -r namedir- удаляет папки с файлами из репозитория
+
+
+git clone : ссылка на проект - полностью скачивает проект
+
+git remote remove origin : отвязывает от гита весть проект
+
