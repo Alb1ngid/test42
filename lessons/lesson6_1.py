@@ -32,5 +32,6 @@ obj1.value=20
 print(obj1.value)
 del obj1.value
 obj1.value=21
+
 obj1.get_value()
 
