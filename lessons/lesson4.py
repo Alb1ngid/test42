@@ -31,6 +31,7 @@ c=C('name',21)
 
 
 
+
 if __name__ == '__main__':
     A.res(c)
     print(C.mro())
