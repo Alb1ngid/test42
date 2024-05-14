@@ -19,6 +19,11 @@ git rm --cached -r namedir- удаляет папки с файлами из р�
 git clone : ссылка на проект - полностью скачивает проект
 git remote remove origin : отвязывает от гита весть проект
 
+git branch
+git branch name -ваша ветка
+git chekcout name
+
+
 
 pip install
 pip freeze
