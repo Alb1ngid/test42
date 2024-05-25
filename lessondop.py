@@ -15,3 +15,16 @@ a=A('17',
 A.andd(a)
 a.andd()
 
+# 2 урок
+
+class B(A,object):
+
+    def andd(self):
+        print(self.name)
+# наследование полиморфизм
+# инкапсуляция Абстракция
+
+class C:pass
+
+
+print(C.mro())
